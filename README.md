@@ -1,12 +1,12 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)]
 <h1 align="center">Hi 👋, I'm Payel Karmakar</h1>
-<h3 align="center">A passionate data analyst and scientist from India</h3>
+<h3 align="center">A passionate Data Analyst and Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.businessprocessincubator.com/wp-content/uploads/2021/01/data-science-job-myths.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payelk9&label=Profile%20views&color=0e75b6&style=flat" alt="payelk9" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning & NLP**
 
 - 💬 Ask me about **Statistics, Data Visualization, Advance Excel, SQL, Tableau, Python, ML**
 
