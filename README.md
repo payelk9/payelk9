@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Statistics, Data Visualization, Advance Excel, SQL, Tableau, Python, ML**
 
-- 📫 How to reach me **payelkmf@outlook.com**
+- 📫 How to reach me **karmakarpayel9@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
